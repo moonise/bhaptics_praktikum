@@ -100,6 +100,7 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 /Assets/_Recovery/
+/Assets/_Recovery.meta
 
 # Local bHaptics Developer Portal credentials and deployed app data
 /Assets/Bhaptics/SDK2/Resources/BhapticsSettings.asset
